@@ -16,7 +16,7 @@ Please find the references for each part below:
 
 Part 1 (1st hour): [ref_hour1.md](./ref_hour1.md)
 
-Part 2 (2nd hour):
+Part 2 (2nd hour): [ref_hour2.md](./ref_hour2.md)
 
 Part 3 (3rd hour):[ref_hour3.md](./ref_hour3.md)
 
