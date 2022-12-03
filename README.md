@@ -9,7 +9,7 @@ Please find the slides for each part below:
 
 Part 1 (1st hour): https://docs.google.com/presentation/d/1hrvXR6sm56U_I4hn9HOXCUf-hNZO2FDJg227GvvoyH8/edit?usp=sharing
 
-Part 2 (2nd hour): 
+Part 2 (2nd hour): https://docs.google.com/presentation/d/1AbQfIUfWWcFIS7QO6A-nJJm4zIvXzbhG/edit?usp=share_link&ouid=110105229055630204908&rtpof=true&sd=true
 
 Part 3 (3rd hour): https://docs.google.com/presentation/d/1xrzeAIMnVOumSql_L2oIfVMXcJxOKd3F2u4_DEIkmbY/edit?usp=sharing
 
@@ -20,7 +20,7 @@ Part 1 (1st hour): [ref_hour1.md](./ref_hour1.md)
 
 Part 2 (2nd hour): [ref_hour2.md](./ref_hour2.md)
 
-Part 3 (3rd hour):[ref_hour3.md](./ref_hour3.md)
+Part 3 (3rd hour): [ref_hour3.md](./ref_hour3.md)
 
 ## Colab for DDSP and MIDI-DDSP in part 3
 
