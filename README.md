@@ -7,11 +7,11 @@ Presenters: [Hyeong-Seok Choi](https://harsh-grenadilla-e40.notion.site/Hyeong-S
 ## Slides
 Please find the slides for each part below:
 
-Part 1 (1st hour): https://docs.google.com/presentation/d/16ka7aSQxH4Lx_ikDNkbWJmbjxuX9MfU7vr86p70doCA/edit?usp=sharing
+Part 1 (1st hour): https://docs.google.com/presentation/d/1hrvXR6sm56U_I4hn9HOXCUf-hNZO2FDJg227GvvoyH8/edit?usp=sharing
 
 Part 2 (2nd hour): 
 
-Part 3 (3rd hour): 
+Part 3 (3rd hour): https://docs.google.com/presentation/d/1xrzeAIMnVOumSql_L2oIfVMXcJxOKd3F2u4_DEIkmbY/edit?usp=sharing
 
 ## References
 Please find the references for each part below:
